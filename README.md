@@ -63,10 +63,10 @@ AI_Chatbot/
 │   ├── utils/                 # Exporters (PDF, Excel) and Voice synthesis assistants
 │   ├── firebase.config.js     # Firebase client configuration
 │   ├── App.jsx                # Main application hub (state manager, landing page, charge validator)
-│   └── main.jsx               # Entrypoint
+│   └── main.jsx                # Entrypoint
 ├── vite.config.js             # Vite configuration & OpenAI secure dev proxy middleware
 ├── .env.local                 # Local environment variables (git-ignored)
-└── .gitignore                 # Safe file-tracking whitelist
+└── .gitignore                    # Safe file-tracking whitelist
 ```
 
 ---
