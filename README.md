@@ -39,6 +39,7 @@ Built on top of **React**, **Vite**, and **Firebase**, it utilizes **OpenAI GPT-
 * **Parsers**: [PapaParse](https://www.papaparse.com/) (CSV) + [SheetJS / XLSX](https://sheetjs.com/) (Excel)
 * **Document Exports**: [jsPDF](https://github.com/parallax/jsPDF) & [html2canvas](https://html2canvas.hertzen.com/)
 * **AI Orchestration**: Custom developer proxy middleware in `vite.config.js` securely routing text embeddings and chat completions via OpenAI API.
+* * **AI**: Gemini 2.5 Flash and Gemini 3.5 Flash.
 
 ---
 
