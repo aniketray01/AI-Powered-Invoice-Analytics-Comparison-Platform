@@ -1,4 +1,4 @@
-# 🤖 iBill Co-Pilot — AI-Powered Telecom Invoice Audit Assistant
+# 🤖 AI-Powered Invoice Analytics & Comparison Platform
 
 An advanced, interactive React dashboard and intelligent retrieval-augmented co-pilot designed to streamline telecom invoice auditing, detect financial leakage, validate charge formulas, and analyze site-level operational spending. 
 
